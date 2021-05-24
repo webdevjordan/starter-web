@@ -5,6 +5,8 @@ to use git and github together
 
 ## Introduction
 
+this exampe is to show different parts
+
 ## Purpose
 
 ## Deployment
