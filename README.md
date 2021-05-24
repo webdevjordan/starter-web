@@ -16,3 +16,8 @@ as stated above
 this is a simple web project
 
 ## How To Contribute
+
+
+## Copywright
+
+2014 Git.Training
