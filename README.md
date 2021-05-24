@@ -9,6 +9,10 @@ this exampe is to show different parts
 
 ## Purpose
 
+as stated above 
+
 ## Deployment
+
+this is a simple web project
 
 ## How To Contribute
