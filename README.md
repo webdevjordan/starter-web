@@ -13,6 +13,8 @@ this exampe is to show different parts
 
 as stated above 
 
+## updates from dev one
+
 ## Deployment
 
 this is a simple web project
@@ -25,3 +27,5 @@ Please for this repo and then issue pull request for review
 ## Copywright
 
 2014 Git.Training. All rights reserved.
+
+
