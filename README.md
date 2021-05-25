@@ -17,6 +17,8 @@ this is a simple web project
 
 ## How To Contribute
 
+Please for this repo and then issue pull request for review
+
 
 ## Copywright
 
