@@ -22,4 +22,4 @@ Please for this repo and then issue pull request for review
 
 ## Copywright
 
-2014 Git.Training
+2014 Git.Training. All rights reserved.
